@@ -2,8 +2,4 @@ this is one line
 this is two line
 this is three line
 this is four line
-<<<<<<< HEAD
 this is five line...
-=======
-this is five line...
->>>>>>> feature1
